@@ -1,5 +1,3 @@
-# Profile
-
 # Hi, I'm Yuyan He 👋
 
 🎓 M.S. student in **Computer Science & Artificial Intelligence** at Boston University.
